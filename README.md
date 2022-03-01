@@ -1,6 +1,6 @@
 <H1>Happy Deepawali</h1>
 <hr>
-<p>wish you and your family a happy and a safe Deepawali.<p>
+<p>Many many happy returns of the day Preeti.<p>
 <hr>
 <h4>
 Technology used
